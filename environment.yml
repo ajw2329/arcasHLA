@@ -1,3 +1,4 @@
+name: arcas-hla
 channels:
   - bioconda
   - conda-forge
