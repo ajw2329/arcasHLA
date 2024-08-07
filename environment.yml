@@ -131,3 +131,4 @@ dependencies:
   - zstd=1.5.5=hfc55251_0
   - pip:
       - biopython==1.77
+prefix: /conda_envs/arcas-hla
