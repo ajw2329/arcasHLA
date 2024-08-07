@@ -6,7 +6,7 @@ dependencies:
   - bedtools==2.31.1
   - git==2.43.0
   - git-lfs==3.4.1
-  - kallisto==0.44.0
+  - kallisto==0.51.0
   - numpy==1.26.4
   - pandas==2.2.0
   - pigz==2.8
