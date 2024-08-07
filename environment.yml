@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - bedtools==2.31.1
+  - gcc=14.1.0
   - git==2.43.0
   - git-lfs==3.4.1
   - kallisto==0.51.0
